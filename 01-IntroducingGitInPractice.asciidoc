@@ -1,15 +1,4 @@
-This should be an opening joke!
-Another joke
-Today's joke (27-10-2015)
-28-10-2015: Today's Joke
-End day of: 28-10-2015
-Separate the file
-[Chapter one]
-This is chapter one
-
-New Day: 01-11-2015
-EXTRA
-Today's Joke: 03-11-2015
-Listen to this joke: blah ... blah
-
-Here is a new chapter
+## Chapter 1
+It is a truth universally acknowledged, that a single person in
+possession of good source code, must be in want of a version control
+system.
