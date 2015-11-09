@@ -1,2 +1,2 @@
 [Chapter two]
-Here is a new chapter
+This is chapter two. In this chapter I am going to talk about the advanced practice techniques 
